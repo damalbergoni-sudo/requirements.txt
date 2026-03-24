@@ -1,0 +1,4 @@
+treamlit
+google-generativeai
+pandas
+pytz
